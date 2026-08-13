@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-13T11:42:41.333806+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-13T12:53:49.976719+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 439011525 | Block height: 439011524
-- Epoch: 1016 (23.03% complete)
-- TPS (recent sample): 3215.17
-- Slot time: 411.0 ms
+- Slot: 439021769 | Block height: 439021768
+- Epoch: 1016 (25.4% complete)
+- TPS (recent sample): 3877.7
+- Slot time: 419.6 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,135,932 SOL | Circulating: 582,614,311 SOL | Non-circulating: 49,521,621 SOL
+- Total: 632,135,891 SOL | Circulating: 582,614,270 SOL | Non-circulating: 49,521,621 SOL
 
 ## Market & ecosystem
 
-- SOL price: $75.6200 | implied market cap ≈ $44,057,279,996
-- Solana TVL (DeFiLlama): $4,827,346,853
+- SOL price: $75.8940 | implied market cap ≈ $44,216,906,551
+- Solana TVL (DeFiLlama): $4,819,382,015
 - DEX volume 24h: $1,725,631,801 (7d: $10,539,258,959, 24h change: 4.53%)
-- Stablecoins on Solana: $16,045,740,652
-  - USDC: $6,768,024,494, USDT: $2,957,921,980, USDGO: $1,169,158,858, USD1: $1,051,325,395, BUIDL: $740,615,759, PYUSD: $673,812,408
+- Stablecoins on Solana: $16,025,198,724
+  - USDC: $6,747,402,003, USDT: $2,957,731,420, USDGO: $1,169,289,794, USD1: $1,051,300,266, BUIDL: $740,615,759, PYUSD: $673,899,644
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-13T10:56 | 3062.47 | 411.0 | 75.689 | 4.83 | 1683.29 |
 | 2026-08-13T11:42 | 3215.17 | 411.0 | 75.62 | 4.83 | 1725.63 |
+| 2026-08-13T12:53 | 3877.7 | 419.6 | 75.894 | 4.82 | 1725.63 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
