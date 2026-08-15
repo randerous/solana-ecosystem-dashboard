@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-15T04:02:16.769402+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-15T04:55:50.977769+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 439360577 | Block height: 439360577
-- Epoch: 1017 (3.83% complete)
-- TPS (recent sample): 4787.1
-- Slot time: 413.8 ms
+- Slot: 439368287 | Block height: 439368288
+- Epoch: 1017 (5.61% complete)
+- TPS (recent sample): 2880.0
+- Slot time: 411.0 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,262,419 SOL | Circulating: 582,728,622 SOL | Non-circulating: 49,533,797 SOL
+- Total: 632,262,393 SOL | Circulating: 582,728,487 SOL | Non-circulating: 49,533,906 SOL
 
 ## Market & ecosystem
 
-- SOL price: $75.3733 | implied market cap ≈ $43,922,170,841
-- Solana TVL (DeFiLlama): $4,811,145,878
+- SOL price: $75.4750 | implied market cap ≈ $43,981,427,169
+- Solana TVL (DeFiLlama): $4,821,544,292
 - DEX volume 24h: $1,642,311,972 (7d: $11,209,758,735, 24h change: -15.47%)
-- Stablecoins on Solana: $15,942,489,476
-  - USDC: $6,718,414,877, USDT: $2,897,830,540, USDGO: $1,188,127,842, USD1: $1,051,120,625, BUIDL: $740,956,612, PYUSD: $678,785,285
+- Stablecoins on Solana: $15,939,366,427
+  - USDC: $6,716,270,130, USDT: $2,897,706,002, USDGO: $1,187,966,338, USD1: $1,051,083,154, BUIDL: $740,956,612, PYUSD: $678,700,598
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-15T03:11 | 3288.08 | 419.6 | 75.6163 | 4.81 | 1642.31 |
 | 2026-08-15T04:02 | 4787.1 | 413.8 | 75.3733 | 4.81 | 1642.31 |
+| 2026-08-15T04:55 | 2880.0 | 411.0 | 75.475 | 4.82 | 1642.31 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
