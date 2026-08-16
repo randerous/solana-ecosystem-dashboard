@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-16T19:16:24.978912+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-16T19:42:09.231362+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 439700186 | Block height: 439700185
-- Epoch: 1017 (82.44% complete)
-- TPS (recent sample): 3478.25
-- Slot time: 438.0 ms
+- Slot: 439703902 | Block height: 439703901
+- Epoch: 1017 (83.3% complete)
+- TPS (recent sample): 3473.53
+- Slot time: 419.6 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,261,230 SOL | Circulating: 582,784,320 SOL | Non-circulating: 49,476,910 SOL
+- Total: 632,261,216 SOL | Circulating: 582,784,305 SOL | Non-circulating: 49,476,910 SOL
 
 ## Market & ecosystem
 
-- SOL price: $75.2129 | implied market cap ≈ $43,832,923,826
-- Solana TVL (DeFiLlama): $4,800,732,297
+- SOL price: $75.2855 | implied market cap ≈ $43,875,228,717
+- Solana TVL (DeFiLlama): $4,798,200,388
 - DEX volume 24h: $1,169,008,634 (7d: $10,975,868,245, 24h change: -27.18%)
-- Stablecoins on Solana: $15,923,184,467
-  - USDC: $6,697,871,822, USDT: $2,898,025,941, USDGO: $1,188,794,546, USD1: $1,051,325,060, BUIDL: $740,956,612, PYUSD: $678,478,342
+- Stablecoins on Solana: $15,919,223,912
+  - USDC: $6,694,165,419, USDT: $2,897,830,062, USDGO: $1,188,682,457, USD1: $1,051,276,992, BUIDL: $740,956,612, PYUSD: $678,493,386
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-16T18:54 | 3844.65 | 408.2 | 75.1634 | 4.80 | 1169.01 |
 | 2026-08-16T19:16 | 3478.25 | 438.0 | 75.2129 | 4.80 | 1169.01 |
+| 2026-08-16T19:42 | 3473.53 | 419.6 | 75.2855 | 4.80 | 1169.01 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
