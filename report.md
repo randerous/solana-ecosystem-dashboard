@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-16T11:43:15.077560+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-16T12:23:56.026125+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 439634828 | Block height: 439634828
-- Epoch: 1017 (67.31% complete)
-- TPS (recent sample): 2915.18
-- Slot time: 416.7 ms
+- Slot: 439640700 | Block height: 439640701
+- Epoch: 1017 (68.67% complete)
+- TPS (recent sample): 2611.25
+- Slot time: 444.4 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,261,478 SOL | Circulating: 582,784,567 SOL | Non-circulating: 49,476,910 SOL
+- Total: 632,261,459 SOL | Circulating: 582,784,549 SOL | Non-circulating: 49,476,910 SOL
 
 ## Market & ecosystem
 
-- SOL price: $75.2155 | implied market cap ≈ $43,834,456,371
-- Solana TVL (DeFiLlama): $4,808,153,282
+- SOL price: $75.1864 | implied market cap ≈ $43,817,445,077
+- Solana TVL (DeFiLlama): $4,804,030,880
 - DEX volume 24h: $1,169,008,711 (7d: $10,975,868,433, 24h change: -27.18%)
-- Stablecoins on Solana: $15,925,747,608
-  - USDC: $6,699,838,023, USDT: $2,898,028,941, USDGO: $1,188,668,013, USD1: $1,051,273,863, BUIDL: $740,956,612, PYUSD: $678,652,444
+- Stablecoins on Solana: $15,924,977,353
+  - USDC: $6,699,090,341, USDT: $2,898,050,808, USDGO: $1,188,631,282, USD1: $1,051,297,169, BUIDL: $740,956,612, PYUSD: $678,697,084
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-16T11:14 | 3062.03 | 413.8 | 75.2033 | 4.81 | 1169.01 |
 | 2026-08-16T11:43 | 2915.18 | 416.7 | 75.2155 | 4.81 | 1169.01 |
+| 2026-08-16T12:23 | 2611.25 | 444.4 | 75.1864 | 4.80 | 1169.01 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
