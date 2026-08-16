@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-16T22:13:39.761244+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-16T22:45:08.839906+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 439725831 | Block height: 439725831
-- Epoch: 1017 (88.38% complete)
-- TPS (recent sample): 4087.27
-- Slot time: 408.2 ms
+- Slot: 439730371 | Block height: 439730370
+- Epoch: 1017 (89.43% complete)
+- TPS (recent sample): 3908.8
+- Slot time: 419.6 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,261,130 SOL | Circulating: 582,784,220 SOL | Non-circulating: 49,476,910 SOL
+- Total: 632,261,112 SOL | Circulating: 582,784,202 SOL | Non-circulating: 49,476,910 SOL
 
 ## Market & ecosystem
 
-- SOL price: $74.4432 | implied market cap ≈ $43,384,348,933
-- Solana TVL (DeFiLlama): $4,793,308,524
+- SOL price: $74.2900 | implied market cap ≈ $43,295,021,003
+- Solana TVL (DeFiLlama): $4,793,133,797
 - DEX volume 24h: $1,169,008,634 (7d: $10,975,868,245, 24h change: -27.18%)
-- Stablecoins on Solana: $15,919,628,306
-  - USDC: $6,694,825,474, USDT: $2,898,059,734, USDGO: $1,188,754,182, USD1: $1,051,333,412, BUIDL: $740,956,612, PYUSD: $678,244,353
+- Stablecoins on Solana: $15,917,258,602
+  - USDC: $6,692,425,127, USDT: $2,898,076,215, USDGO: $1,188,629,253, USD1: $1,051,354,136, BUIDL: $740,956,612, PYUSD: $678,296,739
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-16T21:42 | 4639.7 | 411.0 | 74.4649 | 4.79 | 1169.01 |
 | 2026-08-16T22:13 | 4087.27 | 408.2 | 74.4432 | 4.79 | 1169.01 |
+| 2026-08-16T22:45 | 3908.8 | 419.6 | 74.29 | 4.79 | 1169.01 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
