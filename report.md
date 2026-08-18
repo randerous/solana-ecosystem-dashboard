@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-18T04:05:52.266281+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-18T05:01:46.998038+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 439984793 | Block height: 439984793
-- Epoch: 1018 (48.32% complete)
-- TPS (recent sample): 3074.2
-- Slot time: 413.8 ms
+- Slot: 439992894 | Block height: 439992893
+- Epoch: 1018 (50.2% complete)
+- TPS (recent sample): 2773.05
+- Slot time: 431.7 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,387,948 SOL | Circulating: 582,895,689 SOL | Non-circulating: 49,492,259 SOL
+- Total: 632,387,922 SOL | Circulating: 582,895,663 SOL | Non-circulating: 49,492,259 SOL
 
 ## Market & ecosystem
 
-- SOL price: $75.3691 | implied market cap ≈ $43,932,345,311
-- Solana TVL (DeFiLlama): $4,850,782,627
+- SOL price: $75.7697 | implied market cap ≈ $44,165,856,747
+- Solana TVL (DeFiLlama): $4,844,576,568
 - DEX volume 24h: $1,425,243,228 (7d: $10,472,054,918, 24h change: 35.03%)
-- Stablecoins on Solana: $15,914,317,555
-  - USDC: $6,733,237,555, USDT: $2,858,073,522, USDGO: $1,188,459,125, USD1: $1,051,057,297, BUIDL: $741,348,225, PYUSD: $673,121,831
+- Stablecoins on Solana: $15,933,444,499
+  - USDC: $6,749,349,057, USDT: $2,858,077,850, USDGO: $1,188,564,501, USD1: $1,050,995,985, BUIDL: $741,348,225, PYUSD: $672,606,006
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-18T03:15 | 3192.0 | 408.2 | 75.273 | 4.85 | 1425.24 |
 | 2026-08-18T04:05 | 3074.2 | 413.8 | 75.3691 | 4.85 | 1425.24 |
+| 2026-08-18T05:01 | 2773.05 | 431.7 | 75.7697 | 4.84 | 1425.24 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
