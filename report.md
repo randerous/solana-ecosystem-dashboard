@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-21T17:02:33.618209+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-21T17:54:42.041243+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 440730967 | Block height: 440730999
-- Epoch: 1020 (21.06% complete)
-- TPS (recent sample): 4882.32
-- Slot time: 365.9 ms
+- Slot: 440739485 | Block height: 440739516
+- Epoch: 1020 (23.03% complete)
+- TPS (recent sample): 4467.25
+- Slot time: 361.4 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,640,105 SOL | Circulating: 583,178,144 SOL | Non-circulating: 49,461,961 SOL
+- Total: 632,640,066 SOL | Circulating: 583,178,105 SOL | Non-circulating: 49,461,961 SOL
 
 ## Market & ecosystem
 
-- SOL price: $91.5693 | implied market cap ≈ $53,401,234,723
-- Solana TVL (DeFiLlama): $5,439,785,185
+- SOL price: $91.7858 | implied market cap ≈ $53,527,450,666
+- Solana TVL (DeFiLlama): $5,436,005,067
 - DEX volume 24h: $2,770,509,439 (7d: $12,919,738,645, 24h change: -7.95%)
-- Stablecoins on Solana: $16,164,426,325
-  - USDC: $7,202,382,863, USDT: $2,739,247,196, USDGO: $1,188,114,288, USD1: $1,060,602,194, BUIDL: $740,740,542, PYUSD: $687,161,056
+- Stablecoins on Solana: $16,175,646,175
+  - USDC: $7,208,366,977, USDT: $2,739,505,284, USDGO: $1,194,491,419, USD1: $1,060,789,596, BUIDL: $740,740,542, PYUSD: $684,940,264
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-21T16:29 | 5097.25 | 361.4 | 91.322 | 5.44 | 2770.51 |
 | 2026-08-21T17:02 | 4882.32 | 365.9 | 91.5693 | 5.44 | 2770.51 |
+| 2026-08-21T17:54 | 4467.25 | 361.4 | 91.7858 | 5.44 | 2770.51 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
