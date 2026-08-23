@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-08-23T11:14:35.499678+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-08-23T11:43:33.498225+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 441145429 | Block height: 441145460
-- Epoch: 1021 (17.0% complete)
-- TPS (recent sample): 3064.0
-- Slot time: 361.4 ms
+- Slot: 441150168 | Block height: 441150200
+- Epoch: 1021 (18.09% complete)
+- TPS (recent sample): 3306.03
+- Slot time: 370.4 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 632,750,172 SOL | Circulating: 583,277,062 SOL | Non-circulating: 49,473,109 SOL
+- Total: 632,750,156 SOL | Circulating: 583,277,047 SOL | Non-circulating: 49,473,109 SOL
 
 ## Market & ecosystem
 
-- SOL price: $93.7662 | implied market cap ≈ $54,691,682,622
+- SOL price: $94.6044 | implied market cap ≈ $55,180,575,782
 - Solana TVL (DeFiLlama): $5,505,527,785
-- DEX volume 24h: $3,648,052,189 (7d: $16,912,687,926, 24h change: 1.31%)
-- Stablecoins on Solana: $16,293,038,820
-  - USDC: $7,227,221,427, USDT: $2,789,882,997, USDGO: $1,194,503,553, USD1: $1,068,012,106, BUIDL: $777,140,542, PYUSD: $688,141,543
+- DEX volume 24h: $3,732,294,478 (7d: $17,478,586,111, 24h change: 3.65%)
+- Stablecoins on Solana: $16,322,026,537
+  - USDC: $7,210,857,858, USDT: $2,834,720,438, USDGO: $1,194,455,919, USD1: $1,067,995,210, BUIDL: $777,140,542, PYUSD: $688,048,607
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-08-23T10:48 | 3225.22 | 363.6 | 93.737 | 5.49 | 3648.05 |
 | 2026-08-23T11:14 | 3064.0 | 361.4 | 93.7662 | 5.51 | 3648.05 |
+| 2026-08-23T11:43 | 3306.03 | 370.4 | 94.6044 | 5.51 | 3732.29 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
