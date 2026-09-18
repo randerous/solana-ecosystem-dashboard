@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-09-18T20:14:00.026182+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-09-18T22:42:39.794736+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 448188071 | Block height: 448188105
-- Epoch: 1037 (47.24% complete)
-- TPS (recent sample): 4940.82
-- Slot time: 259.7 ms
+- Slot: 448221436 | Block height: 448221467
+- Epoch: 1037 (54.96% complete)
+- TPS (recent sample): 4408.42
+- Slot time: 266.7 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 634,298,124 SOL | Circulating: 587,296,870 SOL | Non-circulating: 47,001,254 SOL
+- Total: 634,298,010 SOL | Circulating: 587,296,756 SOL | Non-circulating: 47,001,254 SOL
 
 ## Market & ecosystem
 
-- SOL price: $113.7753 | implied market cap ≈ $66,819,905,533
-- Solana TVL (DeFiLlama): $6,267,724,954
+- SOL price: $112.9360 | implied market cap ≈ $66,326,939,358
+- Solana TVL (DeFiLlama): $6,286,658,066
 - DEX volume 24h: $2,592,123,183 (7d: $17,438,482,947, 24h change: -7.41%)
-- Stablecoins on Solana: $16,079,410,407
-  - USDC: $7,311,163,640, USDT: $2,114,961,814, USDGO: $1,383,568,887, USD1: $1,330,777,715, BUIDL: $993,183,967, PYUSD: $719,015,698
+- Stablecoins on Solana: $15,692,910,879
+  - USDC: $6,917,757,276, USDT: $2,115,312,992, USDGO: $1,383,329,224, USD1: $1,331,038,013, BUIDL: $993,183,967, PYUSD: $717,980,944
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-09-18T17:45 | 4739.25 | 265.5 | 112.3453 | 6.16 | 2592.12 |
 | 2026-09-18T20:14 | 4940.82 | 259.7 | 113.7753 | 6.27 | 2592.12 |
+| 2026-09-18T22:42 | 4408.42 | 266.7 | 112.936 | 6.29 | 2592.12 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
