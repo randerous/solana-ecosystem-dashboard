@@ -1,153 +1,153 @@
 {
-  "generated_at": "2026-09-28T19:55:46.778842+00:00",
+  "generated_at": "2026-09-29T00:07:03.746550+00:00",
   "network": {
     "health": "ok",
-    "slot": 451419056,
-    "block_height": 451419087,
-    "epoch": 1044,
-    "epoch_slot_index": 411057,
+    "slot": 451475326,
+    "block_height": 451475357,
+    "epoch": 1045,
+    "epoch_slot_index": 35328,
     "epoch_slots_total": 432000,
-    "epoch_progress_pct": 95.15,
-    "tps": 4244.53,
-    "slot_time_ms": 264.3,
+    "epoch_progress_pct": 8.18,
+    "tps": 4045.35,
+    "slot_time_ms": 270.3,
     "active_validators": 675,
-    "delinquent_validators": 8,
-    "total_stake_sol": 440455142.0,
-    "delinquent_stake_sol": 94664.6,
-    "delinquent_stake_pct": 0.021,
+    "delinquent_validators": 7,
+    "total_stake_sol": 441226281.3,
+    "delinquent_stake_sol": 23510.8,
+    "delinquent_stake_pct": 0.005,
     "top_validators": [
       {
         "node_pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "vote_pubkey": "CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1",
-        "stake_sol": 17867778.9,
+        "stake_sol": 17824525.2,
         "commission_pct": 7,
-        "last_vote": 451419057
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "vote_pubkey": "he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk",
-        "stake_sol": 15840792.4,
+        "stake_sol": 15886038.0,
         "commission_pct": 0,
-        "last_vote": 451419057
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
         "vote_pubkey": "3N7s9zXMZ4QqvHQR15t5GNHyqc89KduzMP7423eWiD5g",
-        "stake_sol": 12330570.2,
+        "stake_sol": 12338576.6,
         "commission_pct": 0,
-        "last_vote": 451419057
-      },
-      {
-        "node_pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
-        "vote_pubkey": "CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb",
-        "stake_sol": 11215731.5,
-        "commission_pct": 5,
-        "last_vote": 451419057
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
         "vote_pubkey": "8GbwASqdpw4dVcwbWUxbHXMrjyQx2aKkoBR5H1GJF8iD",
-        "stake_sol": 10838730.0,
+        "stake_sol": 11300554.4,
         "commission_pct": 0,
-        "last_vote": 451419057
+        "last_vote": 451475328
+      },
+      {
+        "node_pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "vote_pubkey": "CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb",
+        "stake_sol": 11209854.8,
+        "commission_pct": 5,
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "C8Bey3LKVJHVqN6xPTeW8WJfUgFQAeGNBpT4Rp99JP1k",
         "vote_pubkey": "26pV97Ce83ZQ6Kz9XT4td8tdoUFPTng8Fb8gPyc53dJx",
-        "stake_sol": 9238854.0,
+        "stake_sol": 9243744.1,
         "commission_pct": 7,
-        "last_vote": 451419057
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4",
         "vote_pubkey": "51JBzSTU5rAM8gLAVQKgp4WoZerQcSqWC7BitBzgUNAm",
-        "stake_sol": 9209776.3,
+        "stake_sol": 9224466.3,
         "commission_pct": 10,
-        "last_vote": 451419057
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
         "vote_pubkey": "9QU2QSxhb24FUX3Tu2FpczXjpK3VYrvRudywSZaM29mF",
-        "stake_sol": 7623406.7,
+        "stake_sol": 7637467.6,
         "commission_pct": 7,
-        "last_vote": 451419057
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "vote_pubkey": "CvSb7wdQAFpHuSpTYTJnX5SYH4hCfQ9VuGnqrKaKwycB",
-        "stake_sol": 7094526.1,
+        "stake_sol": 6700082.9,
         "commission_pct": 5,
-        "last_vote": 451419057
+        "last_vote": 451475328
       },
       {
         "node_pubkey": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
         "vote_pubkey": "DumiCKHVqoCQKD8roLApzR5Fit8qGV5fVQsJV9sTZk4a",
-        "stake_sol": 6511333.6,
+        "stake_sol": 6518406.5,
         "commission_pct": 0,
-        "last_vote": 451419057
+        "last_vote": 451475328
       }
     ],
     "supply": {
-      "total_sol": 634840386.71,
-      "circulating_sol": 587781675.41,
-      "non_circulating_sol": 47058711.3
+      "total_sol": 634918980.87,
+      "circulating_sol": 587852912.24,
+      "non_circulating_sol": 47066068.63
     }
   },
   "market": {
-    "tvl_usd": 6577063718.41,
+    "tvl_usd": 6516870594.68,
     "dex_volume_24h_usd": 1926466128.71,
     "dex_volume_7d_usd": 18322673736.11,
     "dex_volume_change_1d_pct": -10.61,
-    "stablecoins_usd": 16683562551.47,
+    "stablecoins_usd": 16673310465.81,
     "stablecoin_breakdown": {
-      "USDC": 7241745738.83,
-      "USDT": 2685167774.87,
-      "USDGO": 1405690850.82,
-      "USD1": 1389878333.95,
-      "BUIDL": 988186167.1,
-      "PYUSD": 731444451.98,
-      "USDG": 692085903.84,
-      "USDe": 461112366.47,
-      "SOFID": 226866289.46,
-      "USX": 215143435.03,
-      "USDY": 179343643.13,
-      "CASH": 132510266.01,
-      "MOVEUSD": 116088572.57,
-      "USDTB": 44747023.32,
-      "JUPUSD": 43991383.22,
-      "HYUSD": 24442644.95,
-      "USDPT": 16809418.01,
+      "USDC": 7247418494.36,
+      "USDT": 2704907906.1,
+      "USDGO": 1405705152.77,
+      "USD1": 1389821154.63,
+      "BUIDL": 964128257.1,
+      "PYUSD": 721973495.87,
+      "USDG": 691564323.92,
+      "USDe": 458965956.49,
+      "SOFID": 227297855.84,
+      "USX": 215088857.47,
+      "USDY": 179538611.63,
+      "CASH": 132483141.88,
+      "MOVEUSD": 115871610.85,
+      "USDTB": 44750536.89,
+      "JUPUSD": 43988270.38,
+      "HYUSD": 24380200.87,
+      "USDPT": 17202616.06,
       "M": 15470452.38,
-      "DUSD": 9166992.97,
-      "SBC": 8790207.14,
-      "FDUSD": 8514981.88,
-      "USDV": 7171771.71,
-      "USDU": 7103697.11,
-      "USDS": 5869419.93,
+      "DUSD": 9166365.59,
+      "SBC": 8779343.43,
+      "FDUSD": 8514053.35,
+      "USDV": 7177780.37,
+      "USDU": 7104208.13,
+      "USDS": 5783930.8,
       "PAI": 4223731.87,
       "YU": 3760349.94,
-      "AUSD": 3286874.73,
-      "eUSD": 3003004.94,
-      "PUSD": 2895375.01,
-      "USDCV": 1989667.44,
-      "USDP": 1686429.01,
-      "USD+": 1517055.39,
-      "USDH": 1123177.99,
-      "sUSD": 816495.97,
-      "DAI": 510350.68,
-      "FRNT": 394427.44,
-      "FRXUSD": 359356.38,
-      "UXD": 297839.7,
-      "IAUSD": 135584.58,
-      "GGUSD": 61001.88,
+      "AUSD": 3286653.15,
+      "eUSD": 3011434.55,
+      "PUSD": 2895247.29,
+      "USDCV": 1989222.62,
+      "USDP": 1686071.4,
+      "USD+": 1516944.61,
+      "USDH": 1122812.39,
+      "sUSD": 816509.91,
+      "DAI": 510320.71,
+      "FRNT": 394476.26,
+      "FRXUSD": 359352.43,
+      "UXD": 297808.51,
+      "IAUSD": 135578.6,
+      "GGUSD": 61012.17,
       "USDE": 49147.57,
-      "USH": 38314.09,
-      "USDm": 28119.17,
-      "BUSD": 24931.73,
+      "USH": 38312.1,
+      "USDm": 28303.26,
+      "BUSD": 25059.51,
       "HUSD": 10510.99,
       "CUSD": 3247.69,
-      "FRAX": 2873.38,
-      "USDK": 2824.75,
+      "FRAX": 2884.02,
+      "USDK": 2824.63,
       "ZUSD": 70.01,
       "USDeAD": 2.26,
       "rUSD": 0.2,
@@ -173,22 +173,16 @@
       "KRWQ": 0.0
     },
     "prices": {
-      "SOL": 118.4684705801152,
-      "USDT": 0.9997674311562439,
-      "USDC": 0.9999411768060016,
-      "JUP": 0.32853042273125294,
-      "BONK": 3.44789332506953e-06,
-      "PYTH": 0.0789061980352338,
-      "timestamp": 1790625220
+      "SOL": 118.77224815269787,
+      "USDT": 0.9997204111164064,
+      "USDC": 0.9999290513206234,
+      "JUP": 0.32953102160072106,
+      "BONK": 3.4956659598720887e-06,
+      "PYTH": 0.08131334575073464,
+      "timestamp": 1790640290
     }
   },
-  "alerts": [
-    {
-      "level": "INFO",
-      "metric": "Epoch boundary",
-      "message": "Epoch 1044 at 95.15% — boundary soon"
-    }
-  ],
+  "alerts": [],
   "ecosystem_notes": [
     {
       "title": "Alpenglow (upcoming upgrade)",
