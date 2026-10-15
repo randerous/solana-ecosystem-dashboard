@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-10-15T09:36:12.217330+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-10-15T14:35:04.228364+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 457189551 | Block height: 457189582
-- Epoch: 1058 (30.91% complete)
-- TPS (recent sample): 4403.98
-- Slot time: 214.3 ms
+- Slot: 457272720 | Block height: 457272754
+- Epoch: 1058 (50.17% complete)
+- TPS (recent sample): 5161.32
+- Slot time: 215.8 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 635,844,597 SOL | Circulating: 589,268,754 SOL | Non-circulating: 46,575,843 SOL
+- Total: 635,844,360 SOL | Circulating: 589,268,517 SOL | Non-circulating: 46,575,843 SOL
 
 ## Market & ecosystem
 
-- SOL price: $102.9267 | implied market cap ≈ $60,651,461,104
-- Solana TVL (DeFiLlama): $5,928,718,902
-- DEX volume 24h: $2,250,924,739 (7d: $12,955,524,822, 24h change: -9.79%)
-- Stablecoins on Solana: $16,012,999,180
-  - USDC: $6,877,541,063, USDT: $2,821,976,191, USD1: $1,413,876,920, USDGO: $1,258,676,961, BUIDL: $885,430,427, PYUSD: $676,570,855
+- SOL price: $102.8330 | implied market cap ≈ $60,596,270,595
+- Solana TVL (DeFiLlama): $5,885,845,077
+- DEX volume 24h: $2,118,350,659 (7d: $14,031,693,064, 24h change: -15.1%)
+- Stablecoins on Solana: $16,067,568,279
+  - USDC: $6,935,075,784, USDT: $2,822,279,426, USD1: $1,414,189,094, USDGO: $1,258,694,343, BUIDL: $885,430,427, PYUSD: $676,482,164
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-10-15T04:57 | 5148.37 | 220.6 | 104.0909 | 5.96 | 2250.92 |
 | 2026-10-15T09:36 | 4403.98 | 214.3 | 102.9267 | 5.93 | 2250.92 |
+| 2026-10-15T14:35 | 5161.32 | 215.8 | 102.833 | 5.89 | 2118.35 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
