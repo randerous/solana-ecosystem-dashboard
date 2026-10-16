@@ -1,19 +1,19 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-10-16T08:38:53.440839+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-10-16T13:39:59.523485+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 457573522 | Block height: 457573557
-- Epoch: 1059 (19.8% complete)
-- TPS (recent sample): 4907.78
+- Slot: 457657339 | Block height: 457657369
+- Epoch: 1059 (39.2% complete)
+- TPS (recent sample): 5630.03
 - Slot time: 216.6 ms
 
 ## Validators
 
-- Active: 671 | Delinquent: 9
-- Total active stake: 437780683.9 SOL | Delinquent stake: 0.0%
+- Active: 671 | Delinquent: 10
+- Total active stake: 437670940.6 SOL | Delinquent stake: 0.025%
 
 Top validators by stake:
 | # | Node pubkey | Stake (SOL) | Commission (%) |
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 635,906,173 SOL | Circulating: 589,324,446 SOL | Non-circulating: 46,581,728 SOL
+- Total: 635,905,950 SOL | Circulating: 589,324,223 SOL | Non-circulating: 46,581,728 SOL
 
 ## Market & ecosystem
 
-- SOL price: $106.6321 | implied market cap ≈ $62,840,895,938
-- Solana TVL (DeFiLlama): $6,002,474,074
-- DEX volume 24h: $2,421,172,051 (7d: $12,480,934,039, 24h change: 14.26%)
-- Stablecoins on Solana: $16,026,895,097
-  - USDC: $6,907,478,784, USDT: $2,802,403,843, USD1: $1,414,063,996, USDGO: $1,258,715,675, BUIDL: $885,520,700, PYUSD: $681,277,123
+- SOL price: $105.1923 | implied market cap ≈ $61,992,392,918
+- Solana TVL (DeFiLlama): $6,031,850,178
+- DEX volume 24h: $2,539,283,878 (7d: $13,675,213,644, 24h change: 19.84%)
+- Stablecoins on Solana: $15,984,126,988
+  - USDC: $6,854,258,921, USDT: $2,802,667,742, USD1: $1,414,224,421, USDGO: $1,270,613,315, BUIDL: $885,520,700, PYUSD: $680,694,092
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-10-16T03:52 | 5269.97 | 215.1 | 105.1038 | 6.01 | 2421.17 |
 | 2026-10-16T08:38 | 4907.78 | 216.6 | 106.6321 | 6.00 | 2421.17 |
+| 2026-10-16T13:39 | 5630.03 | 216.6 | 105.1923 | 6.03 | 2539.28 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
