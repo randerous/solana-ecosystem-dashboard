@@ -1,19 +1,19 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-10-18T01:18:46.677784+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-10-18T06:13:23.205966+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 458249378 | Block height: 458249409
-- Epoch: 1060 (76.25% complete)
-- TPS (recent sample): 4548.42
-- Slot time: 223.9 ms
+- Slot: 458330934 | Block height: 458330962
+- Epoch: 1060 (95.12% complete)
+- TPS (recent sample): 4432.17
+- Slot time: 214.3 ms
 
 ## Validators
 
-- Active: 670 | Delinquent: 11
-- Total active stake: 438698967.1 SOL | Delinquent stake: 0.012%
+- Active: 669 | Delinquent: 12
+- Total active stake: 438674196.2 SOL | Delinquent stake: 0.017%
 
 Top validators by stake:
 | # | Node pubkey | Stake (SOL) | Commission (%) |
@@ -29,19 +29,19 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 635,966,966 SOL | Circulating: 589,381,931 SOL | Non-circulating: 46,585,035 SOL
+- Total: 635,966,752 SOL | Circulating: 589,381,717 SOL | Non-circulating: 46,585,035 SOL
 
 ## Market & ecosystem
 
-- SOL price: $103.5999 | implied market cap ≈ $61,059,933,549
-- Solana TVL (DeFiLlama): $5,882,315,364
-- DEX volume 24h: $1,516,018,787 (7d: $13,745,388,088, 24h change: -30.08%)
-- Stablecoins on Solana: $15,825,716,237
-  - USDC: $6,888,972,536, USDT: $2,662,480,021, USD1: $1,397,223,258, USDGO: $1,270,626,744, BUIDL: $885,611,443, PYUSD: $675,533,947
+- SOL price: $103.5878 | implied market cap ≈ $61,052,775,868
+- Solana TVL (DeFiLlama): $5,957,008,012
+- DEX volume 24h: $1,514,655,504 (7d: $13,744,024,805, 24h change: -30.14%)
+- Stablecoins on Solana: $15,871,661,789
+  - USDC: $6,904,369,345, USDT: $2,692,465,774, USD1: $1,397,180,904, USDGO: $1,270,654,829, BUIDL: $885,611,443, PYUSD: $675,586,646
 
 ## Alerts
 
-- No anomalies detected.
+- **[INFO]** Epoch boundary: Epoch 1060 at 95.12% — boundary soon
 
 ## Ecosystem context (curated, refreshed periodically)
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-10-17T23:15 | 4633.2 | 218.2 | 103.0585 | 5.93 | 2168.13 |
 | 2026-10-18T01:18 | 4548.42 | 223.9 | 103.5999 | 5.88 | 1516.02 |
+| 2026-10-18T06:13 | 4432.17 | 214.3 | 103.5878 | 5.96 | 1514.66 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
