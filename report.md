@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-10-18T11:29:18.608836+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-10-18T14:45:07.208277+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 458418405 | Block height: 458418435
-- Epoch: 1061 (15.37% complete)
-- TPS (recent sample): 4459.05
-- Slot time: 219.0 ms
+- Slot: 458472633 | Block height: 458472664
+- Epoch: 1061 (27.92% complete)
+- TPS (recent sample): 5987.67
+- Slot time: 214.3 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 636,029,168 SOL | Circulating: 589,438,403 SOL | Non-circulating: 46,590,765 SOL
+- Total: 636,029,027 SOL | Circulating: 589,438,262 SOL | Non-circulating: 46,590,765 SOL
 
 ## Market & ecosystem
 
-- SOL price: $104.0532 | implied market cap ≈ $61,332,950,073
-- Solana TVL (DeFiLlama): $5,943,755,972
+- SOL price: $101.9627 | implied market cap ≈ $60,100,737,477
+- Solana TVL (DeFiLlama): $5,946,373,332
 - DEX volume 24h: $1,252,516,757 (7d: $14,344,374,548, 24h change: -42.23%)
-- Stablecoins on Solana: $15,765,191,375
-  - USDC: $6,800,332,846, USDT: $2,692,130,899, USD1: $1,396,987,385, USDGO: $1,270,519,825, BUIDL: $885,611,443, PYUSD: $675,818,797
+- Stablecoins on Solana: $15,764,999,705
+  - USDC: $6,799,656,939, USDT: $2,692,234,064, USD1: $1,397,084,463, USDGO: $1,270,527,671, BUIDL: $885,611,443, PYUSD: $675,856,573
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-10-18T06:13 | 4432.17 | 214.3 | 103.5878 | 5.96 | 1514.66 |
 | 2026-10-18T11:29 | 4459.05 | 219.0 | 104.0532 | 5.94 | 1252.52 |
+| 2026-10-18T14:45 | 5987.67 | 214.3 | 101.9627 | 5.95 | 1252.52 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
