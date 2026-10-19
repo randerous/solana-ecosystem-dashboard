@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-10-19T17:37:23.218944+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-10-19T21:53:58.268022+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 458918703 | Block height: 458918734
-- Epoch: 1062 (31.18% complete)
-- TPS (recent sample): 4900.42
-- Slot time: 216.6 ms
+- Slot: 458989246 | Block height: 458989278
+- Epoch: 1062 (47.51% complete)
+- TPS (recent sample): 5070.63
+- Slot time: 217.4 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 636,090,380 SOL | Circulating: 589,493,831 SOL | Non-circulating: 46,596,548 SOL
+- Total: 636,090,168 SOL | Circulating: 589,493,619 SOL | Non-circulating: 46,596,548 SOL
 
 ## Market & ecosystem
 
-- SOL price: $104.0112 | implied market cap ≈ $61,313,988,412
-- Solana TVL (DeFiLlama): $5,860,763,914
+- SOL price: $104.6189 | implied market cap ≈ $61,672,166,063
+- Solana TVL (DeFiLlama): $5,850,970,275
 - DEX volume 24h: $1,697,352,650 (7d: $14,764,671,577, 24h change: 35.52%)
-- Stablecoins on Solana: $15,772,977,475
-  - USDC: $6,814,973,494, USDT: $2,693,079,400, USD1: $1,396,777,478, USDGO: $1,273,542,107, BUIDL: $885,883,213, PYUSD: $680,849,395
+- Stablecoins on Solana: $15,869,287,490
+  - USDC: $6,910,146,374, USDT: $2,692,781,863, USD1: $1,396,689,437, USDGO: $1,273,498,380, BUIDL: $886,027,791, PYUSD: $680,803,011
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-10-19T11:01 | 4423.47 | 220.6 | 104.9065 | 5.92 | 1697.35 |
 | 2026-10-19T17:37 | 4900.42 | 216.6 | 104.0112 | 5.86 | 1697.35 |
+| 2026-10-19T21:53 | 5070.63 | 217.4 | 104.6189 | 5.85 | 1697.35 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
