@@ -1,14 +1,14 @@
 # Solana Ecosystem Report (auto-updated)
 
-_Generated: 2026-11-08T20:55:06.952801+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
+_Generated: 2026-11-09T00:23:45.886936+00:00 UTC — refreshed automatically; see `collector.py` and `history.jsonl`._
 
 ## Network health
 
 - RPC health: `ok`
-- Slot: 467056629 | Block height: 467056628
-- Epoch: 1081 (14.96% complete)
-- TPS (recent sample): 2204.28
-- Slot time: 213.5 ms
+- Slot: 467114983 | Block height: 467114983
+- Epoch: 1081 (28.47% complete)
+- TPS (recent sample): 2113.15
+- Slot time: 214.3 ms
 
 ## Validators
 
@@ -29,15 +29,15 @@ Top validators by stake:
 
 ## Supply
 
-- Total: 637,250,083 SOL | Circulating: 591,093,742 SOL | Non-circulating: 46,156,341 SOL
+- Total: 637,250,020 SOL | Circulating: 591,093,778 SOL | Non-circulating: 46,156,242 SOL
 
 ## Market & ecosystem
 
-- SOL price: $89.1666 | implied market cap ≈ $52,705,827,775
-- Solana TVL (DeFiLlama): $5,216,594,261
+- SOL price: $87.0900 | implied market cap ≈ $51,478,357,155
+- Solana TVL (DeFiLlama): $5,128,733,693
 - DEX volume 24h: $917,438,832 (7d: $11,620,646,177, 24h change: -38.01%)
-- Stablecoins on Solana: $14,817,516,239
-  - USDC: $7,044,706,336, USDT: $2,441,617,366, USD1: $1,217,311,001, USDGO: $1,119,143,329, PYUSD: $742,393,429, BUIDL: $540,609,158
+- Stablecoins on Solana: $14,972,605,087
+  - USDC: $6,987,493,568, USDT: $2,441,861,847, USD1: $1,217,064,892, USDGO: $1,118,974,560, PYUSD: $742,427,417, BUIDL: $540,609,158
 
 ## Alerts
 
@@ -52,8 +52,8 @@ Top validators by stake:
 
 | Run (UTC) | TPS | Slot time (ms) | SOL price ($) | TVL ($B) | DEX 24h ($M) |
 |-----------|-----|----------------|---------------|----------|---------------|
-| 2026-11-08T16:54 | 1558.6 | 214.3 | 88.8534 | 5.22 | 917.44 |
 | 2026-11-08T20:55 | 2204.28 | 213.5 | 89.1666 | 5.22 | 917.44 |
+| 2026-11-09T00:23 | 2113.15 | 214.3 | 87.09 | 5.13 | 917.44 |
 
 ---
 _Sources: Solana JSON-RPC (public), DeFiLlama (TVL/DEX/stablecoins/prices). No API keys required._
